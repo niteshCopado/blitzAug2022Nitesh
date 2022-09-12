@@ -18,6 +18,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "nitesh-TestingPackage*": "0Ho5g00000000neCAA",
-        "nitesh-TestingPackage*@0.1.0-1-main": "04t5g000000yFXpAAM"
+        "nitesh-TestingPackage*@0.1.0-1-main": "04t5g000000yFXpAAM",
+        "nitesh-TestingPackage*@0.0.0-1-main": "04t5g000000yFXuAAM"
     }
 }
